@@ -6,15 +6,15 @@
 - Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
 
 ## Week 1:
-- - Convolution model - Step by Step - v2.ipynb
-- - Convolution model - Application - v1.ipynb
+- Convolution model - Step by Step - v2.ipynb
+- Convolution model - Application - v1.ipynb
 
 ## Week 2:
 - Keras - Tutorial - Happy House v2.ipynb
 - Residual Networks - v2.ipynb
 
 ## Week 3:
-- - Autonomous driving application - Car detection - v1.ipynb
+- Autonomous driving application - Car detection - v1.ipynb
 
 ## Week 4:
 - Face Recognition for the Happy House - v3.ipynb
