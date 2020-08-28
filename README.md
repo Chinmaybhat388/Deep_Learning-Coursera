@@ -4,11 +4,11 @@ This repository contains all my assignments and course work for this specializat
 
 In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
 
-Programming Assignments
+## Programming Assignments
 
-Course 1: Neural Networks and Deep Learning:
+#### Course 1: Neural Networks and Deep Learning:
 
-Objectives:
+#### Objectives:
 
 Understand the major technology trends driving Deep Learning.
 Be able to build, train and apply fully connected deep neural networks.
@@ -16,11 +16,11 @@ Know how to implement efficient (vectorized) neural networks.
 Understand the key parameters in a neural network's architecture.
 Code:
 
-Week 2 - Phyton Basics with Numpy
-Week 2 - Logistic Regression with a Neural Network mindset
-Week 3 - Planar data classification with a hidden layer
-Week 4 - Building your Deep Neural Network: Step by Step
-Week 4 - Deep Neural Network: Application
+#### Week 2 - Phyton Basics with Numpy
+#### Week 2 - Logistic Regression with a Neural Network mindset
+#### Week 3 - Planar data classification with a hidden layer
+#### Week 4 - Building your Deep Neural Network: Step by Step
+#### Week 4 - Deep Neural Network: Application
 
 Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
