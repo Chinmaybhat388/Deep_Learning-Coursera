@@ -4,14 +4,14 @@
 - Sequence models & Attention mechanism.
 
 ## Week 1:
-Building a Recurrent Neural Network - Step by Step - v3
-Dinosaurus Island -- Character level language model final - v3
-Improvise a Jazz Solo with an LSTM Network - v3
+- Building a Recurrent Neural Network - Step by Step - v3
+- Dinosaurus Island -- Character level language model final - v3
+- Improvise a Jazz Solo with an LSTM Network - v3
 
 ## Week 2:
-Operations on word vectors - v2
-Emojify - v2
+- Operations on word vectors - v2
+- Emojify - v2
 
 ## Week 3:
-Neural machine translation with attention - v4.ipynb
-Trigger word detection - v1
+- Neural machine translation with attention - v4.ipynb
+- Trigger word detection - v1
